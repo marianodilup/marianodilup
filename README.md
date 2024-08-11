@@ -1,5 +1,6 @@
 # 💫 About Me:
-¡Hi! ![imagen](https://github.com/user-attachments/assets/2310dc38-c6f9-4ccf-baa8-e07309dba542)
+¡Hi! <img src="https://github.com/user-attachments/assets/2310dc38-c6f9-4ccf-baa8-e07309dba542" style="width: 50%;"/>
+
 I am María Angélica<br><br>I am a front end developer passionate about web development.I am ready to contribute my energy, creativity and  my keen to learn in a dynamic team.<br><br> I have experience in React, Angular, JavaScript, HTML5 , CSS3. I am looking forward to contribute and further develop myself in the field of web development.<br><br>I am looking for an opportunity where I can apply my skills and learn from the best. If you need someone who brings freshness, motivation and a great willingness to face challenges, I am the person you are looking for!
 
 ## 🌐 Socials:
