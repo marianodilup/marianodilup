@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy María Angélica<br><br>Soy una programadora Front End con una gran pasión por el desarrollo web. Estoy lista para aportar mi energía, creatividad y ganas de aprender a un equipo dinámico.<br><br>Tengo conocimientos en React, Angular, JavaScript, HTML5 , CSS3 y un fuerte compromiso con el crecimiento y la mejora continua. Estoy ansiosa por contribuir y seguir desarrollándome en el campo del desarrollo web.<br><br>Busco una oportunidad donde pueda aplicar mis habilidades y aprender de los mejores. Si necesitas a alguien que aporte frescura, motivación y una gran disposición para enfrentar retos, ¡soy la persona que buscas!
+¡Hola! Soy María Angélica Pulido<br><br>Soy una programadora Front End con una gran pasión por el desarrollo web. Estoy lista para aportar mi energía, creatividad y ganas de aprender en un equipo dinámico.<br><br>Tengo conocimientos en React, Angular, JavaScript, HTML5 , CSS3 y un fuerte compromiso con el crecimiento y la mejora continua. Estoy ansiosa por contribuir y seguir desarrollándome en el campo del desarrollo web.<br><br>Busco una oportunidad donde pueda aplicar mis habilidades y aprender de los mejores. Si necesitas a alguien que aporte frescura, motivación y una gran disposición para enfrentar retos, ¡soy la persona que buscas!
 
 
 ## 🌐 Socials:
@@ -12,16 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marianodilup&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianodilup&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marianodilup&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](Hola?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marianodilup&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marianodilup&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
