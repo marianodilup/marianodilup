@@ -1,12 +1,7 @@
 # 💫 About Me:
 ¡Hola! Soy María Angélica Pulido<br><br>Soy una programadora Front End con una gran pasión por el desarrollo web. Estoy lista para aportar mi energía, creatividad y ganas de aprender en un equipo dinámico.<br><br>Tengo conocimientos en React, Angular, JavaScript, HTML5 , CSS3 y un fuerte compromiso con el crecimiento y la mejora continua. Estoy ansiosa por contribuir y seguir desarrollándome en el campo del desarrollo web.<br><br>Busco una oportunidad donde pueda aplicar mis habilidades y aprender de los mejores. Si necesitas a alguien que aporte frescura, motivación y una gran disposición para enfrentar retos, ¡soy la persona que buscas!
 
-
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mangypul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariaangelicapulidopinto/) 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mangypul) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaangelicapulidopinto/)
 
 
