@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hi! I am María Angélica<br><br>I am a front end developer passionate about web development.I am ready to contribute my energy, creativity and  my keen to learn in a dynamic team.<br><br> I have experience in React, Angular, JavaScript, HTML5 , CSS3. I am looking forward to contribute and further develop myself in the field of web development.<br><br>I am looking for an opportunity where I can apply my skills and learn from the best. If you need someone who brings freshness, motivation and a great willingness to face challenges, I am the person you are looking for!
+¡Hi! I am María Angélica Pulido.<br><br>I am a front end developer passionate about web development. I am ready to contribute my energy, creativity and  my keen to learn in a dynamic team.<br><br>I have experience in React, Angular, JavaScript, HTML5 , CSS3. I am looking forward to contribute and further develop myself in the field of web development.<br><br>I am looking for an opportunity where I can apply my skills and learn from the best. If you need someone who brings freshness, motivation and a great willingness to face challenges, I am the person you are looking for! 
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaangelicapulidopinto/)
